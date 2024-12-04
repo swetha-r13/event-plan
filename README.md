@@ -1,7 +1,8 @@
-# EventPlan
+# Events app
 
-A new Flutter project.
+Flutter events app UI that consist of 3 screens home screen, event screen, and profile screen.
 
-## Getting Started
+## YouTube Link:
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+[Flutter Events app UI | Speed Code](https://youtu.be/ozgOU9C3vF4)
+
